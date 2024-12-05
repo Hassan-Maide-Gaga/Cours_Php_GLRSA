@@ -14,8 +14,7 @@
             "nom"=>"Wane1",
             "prenom"=>"Baila1",
             "telephone"=>"777661011",
-            "adresse"=>"FO1"
-
+            "adresse"=>"FO1",
             ]
         ];
 
